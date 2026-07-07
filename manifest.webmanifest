@@ -1,0 +1,21 @@
+{
+  "name": "文化祭AIコンシェルジュ",
+  "short_name": "文化祭AI",
+  "description": "持ち時間、予算、好みに合わせて文化祭のおすすめルートを提案します。",
+  "lang": "ja",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7f8",
+  "theme_color": "#1d7f62",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
